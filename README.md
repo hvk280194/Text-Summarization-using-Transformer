@@ -29,3 +29,8 @@ The project uses **Hugging Face Transformers** and fine-tunes the **BART model**
 - Can be replaced with **custom text data** for domain-specific summarization  
 
 ---
+## Usage
+
+### 1. Install dependencies
+```bash
+pip install torch transformers datasets
