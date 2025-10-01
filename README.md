@@ -1,6 +1,5 @@
-
-Text Summarization using Transformers
-Overview
+# Text Summarization using Transformers
+## Overview
 
 This project demonstrates abstractive text summarization using state-of-the-art Transformer models. Given a long text document, the system generates a concise summary that preserves the key information.
 
